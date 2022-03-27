@@ -11,6 +11,7 @@
   inputs.src-markx-v1_0_2.ref   = "refs/tags/v1.0.2";
   inputs.src-markx-v1_0_2.owner = "jiro4989";
   inputs.src-markx-v1_0_2.repo  = "markx";
+  inputs.src-markx-v1_0_2.dir   = "";
   inputs.src-markx-v1_0_2.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
