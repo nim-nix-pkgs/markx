@@ -11,7 +11,6 @@
   inputs.src-markx-master.ref   = "refs/heads/master";
   inputs.src-markx-master.owner = "jiro4989";
   inputs.src-markx-master.repo  = "markx";
-  inputs.src-markx-master.dir   = "";
   inputs.src-markx-master.type  = "github";
   
   inputs."cligen".owner = "nim-nix-pkgs";
